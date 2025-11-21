@@ -34,3 +34,4 @@
 # modulo = num_01%num_02
 # print(f'Seus numeros: {num_01} e {num_02} \nsoma: {soma} \nSubtraçao: {sub} \nDivisao: {divide} \nMultiplicaçao: {multi} \nModulo: {modulo}')
 
+
