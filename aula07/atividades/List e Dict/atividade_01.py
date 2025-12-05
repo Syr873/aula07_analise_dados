@@ -11,4 +11,4 @@ for i in notas:
     elif 5 <= i < 7:
         print(f'Nota: {i} \nRecuperação!!')
     else:
-        print(f'Nota: {i} \nRperovado...')
+        print(f'Nota: {i} \nReprovado...')
