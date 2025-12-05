@@ -63,7 +63,7 @@ for i in range(5):
     print(50*'-')
 
     print(f'Atleta {i+1}: ')
-    
+
     nome = input('\nInforme o nome do atleta: ')
     tempo = int(input('\nInforme o tempo: '))
     categoria = input('\nInforme a categoria: ')
@@ -80,6 +80,8 @@ for i in range(5):
         print(f'Atleta: {nome} \nDesclassificado!!')
 
 print(f'Atletas classificados: \n {classificados}')
+
+print(30*'-')
     
 
 
