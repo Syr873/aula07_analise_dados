@@ -81,7 +81,6 @@ for i in range(5):
 
 print(f'Atletas classificados: \n {classificados}')
 
-print(30*'-')
     
 
 
